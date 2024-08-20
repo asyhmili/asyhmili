@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mili</h1>
 <h3 align="center">This is a testing</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bigfooty.com/forum/media/joke-gif.124934/full">
+<img align="right" alt="Coding" width="300" src="https://www.bigfooty.com/forum/media/joke-gif.124934/full">
 
 - 🌱 I’m currently learning **SQL, Alteryx, Tableau, and Power BI**
 
@@ -25,7 +25,7 @@
   
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="25"/> 
   </a> 
   
   <!-- Excel -->
